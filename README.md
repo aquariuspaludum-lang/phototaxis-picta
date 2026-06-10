@@ -6,7 +6,7 @@ Persimmon and Peach Laboratory, Wakayama Fruit Tree Experiment Station, Japan
 E-mail: kishi@hotmail.co.jp
 
 ## Description
-This repository contains the dataset and R analysis code supporting the above manuscript submitted to *Biology Letters*.
+This repository contains the dataset and R analysis code supporting the above manuscript submitted to *Applied Entomology and Zoology*.
 
 The study investigated the phototactic responses of third-instar larvae of the sap beetle *Phenolia* (*Lasiodites*) *picta* (MacLeay) (Coleoptera: Nitidulidae) under four environmental conditions: normal air (cond. A), water immersion (cond. B), cold air (cond. C), and air replaced with 95% CO₂ (cond. D).
 
