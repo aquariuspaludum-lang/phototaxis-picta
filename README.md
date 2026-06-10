@@ -78,4 +78,6 @@ This dataset and code are made available under the [Creative Commons Attribution
 ---
 
 ## Citation
-Kishi M. Water immersion triggers reversal of phototaxis sign in larvae of the sap beetle *Phenolia* (*Lasiodites*) *picta*. *Biology Letters* (submitted).
+Kishi M. Water immersion triggers reversal of phototaxis sign in larvae of the sap beetle *Phenolia* (*Lasiodites*) *picta*. *Applied Entomology and Zoology* (submitted).
+
+Repository: https://github.com/aquariuspaludum-lang/phototaxis-picta
